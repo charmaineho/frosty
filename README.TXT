@@ -4,9 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Hungry Frosty
+PURPOSE OF PROJECT: A recreation of the classic Snake game but with a holiday twist
+DATE: January 24, 2019
+AUTHOR: Charmaine Ho
+
