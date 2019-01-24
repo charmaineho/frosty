@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LevelDisplay
+comment0.text=\n\ This\ class\ displays\ what\ level\ the\ user\ is\ at\n\ \n\ @Andy,\ Charmaine,\ Brice\n\ June\ 2018\n
+comment1.params=
+comment1.target=LevelDisplay()
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=int\ currentLevel()
+numComments=4

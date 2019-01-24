@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SnowManBody
+comment0.text=\n\ This\ is\ the\ body\ class\ of\ the\ snake\n\ \n\ @Andy,\ Charmaine,\ Brice\n\ June\ 2018\n
+comment1.params=
+comment1.target=SnowManBody()
+comment2.params=x\ y\ rotation
+comment2.target=void\ move(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ addBody()
+numComments=4

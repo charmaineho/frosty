@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GameOverDisplay
+comment0.text=\n\ This\ is\ what\ the\ creator\ leave\ for\ the\ player\n\ \n\ @Andy,\ Charmaine,\ Brice\n\ June\ 2018\n
+comment1.params=result
+comment1.target=GameOverDisplay(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

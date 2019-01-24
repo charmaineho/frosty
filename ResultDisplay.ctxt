@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ResultDisplay
+comment0.text=\n\ This\ displays\ the\ final\ statement\ the\ player\ receives\ based\ on\ the\ score\n\ \n\ @Andy,\ Charmaine,\ Brice\n\ June\ 2018\n
+comment1.params=point\ level
+comment1.target=ResultDisplay(int,\ int)
+numComments=2
